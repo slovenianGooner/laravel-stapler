@@ -2,7 +2,7 @@
 
 namespace Codesleeve\LaravelStapler;
 
-use Codesleeve\Stapler\Interfaces\ConfigurableInterface;
+use Codesleeve\Stapler\Config\ConfigurableInterface;
 use Illuminate\Contracts\Config\Repository;
 
 class IlluminateConfig implements ConfigurableInterface
