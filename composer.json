@@ -2,6 +2,9 @@
     "name": "codesleeve/laravel-stapler",
     "description": "Easy file upload management for the Laravel Framework.",
     "keywords": ["laravel", "file", "upload", "S3", "AWS", "stapler", "paperclip"],
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/slovenianGooner/stapler.git" }
+    ]
     "license": "MIT",
     "authors": [
         {
