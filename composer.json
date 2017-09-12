@@ -25,5 +25,5 @@
             "Codesleeve\\LaravelStapler\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
