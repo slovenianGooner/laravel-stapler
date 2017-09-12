@@ -2,6 +2,9 @@
     "name": "sloveniangooner/laravel-stapler",
     "description": "Easy file upload management for the Laravel Framework.",
     "keywords": ["laravel", "file", "upload", "S3", "AWS", "stapler", "paperclip"],
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/slovenianGooner/stapler.git" }
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
+        "sloveniangooner/stapler": "dev-master",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
