@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "sloveniangooner/stapler": "dev-master",
+        "sloveniangooner/stapler": "dev-5.7",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
